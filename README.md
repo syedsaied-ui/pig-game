@@ -1,4 +1,4 @@
-# Pig Game
+# 🎲 Pig Game
 
 A fun dice game where players compete to reach a target score.
 
@@ -19,11 +19,14 @@ A fun dice game where players compete to reach a target score.
 
 ## ▶️ How to Run
 
-1. Open the project folder
-2. Double click "index.html"
+1. Clone the repository  
+2. Open the project folder  
+3. Open "index.html" in your browser  
 
-OR (recommended):
-Use VS Code Live Server
+OR use VS Code Live Server
+
+## 📸 Preview
+<img width="1920" height="862" alt="pig-game" src="https://github.com/user-attachments/assets/dd616ba4-7048-4649-af9a-1257681afd68" />
 
 ## 📌 Author
 

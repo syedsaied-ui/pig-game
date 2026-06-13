@@ -2,6 +2,10 @@
 
 A fun dice game where players compete to reach a target score.
 
+## 🌐 Live Demo
+
+🔗 https://pig-dice-game-saied.netlify.app
+
 ## 🎮 How to Play
 - Roll the dice
 - Hold to save score
